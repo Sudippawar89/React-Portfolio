@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Jr. Software Developer",
+    "organisation": "SRV Media",
+    "startDate": "Nov, 2022",
+    "endDate": "Present",
+    "experiences": ["Working on developing websites using WordPress, Laravel, and CodeIgniter."],
+    "imageSrc": "history/srv.png"
+  },
+  {
+    "role": "Frontend Developer Intern",
+    "organisation": "Soft Code",
+    "startDate": "June, 2022",
+    "endDate": "July, 2022",
+    "experiences": ["Worked on Creating Landing Pages"],
+    "imageSrc": "history/codesoft.png"
+  },
+  {
+    "role": "Frontend Developer Intern",
+    "organisation": "Octanet",
+    "startDate": "Apr, 2022",
+    "endDate": "May, 2022",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/octanet.png"
+  }
+]

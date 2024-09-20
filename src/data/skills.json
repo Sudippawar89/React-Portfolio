@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Wordpress",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Php",
+    "imageSrc": "skills/figma.png"
+  }
+]
